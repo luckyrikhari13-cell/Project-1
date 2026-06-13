@@ -8,13 +8,14 @@ A high-converting, fully responsive landing page for **ShareOn** — an AI-power
 
 ## 🚀 Live Demo
 
-> _Add your Replit / deployment link here_
+>https://6dac15cc-66d8-498d-9a56-be517fcdfd15-00-24lblljcssv2h.pike.replit.dev/__mockup/shareon.html
 
 ---
 
 ## 📸 Preview
 
-> _Add a screenshot of the landing page here_
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/abf0e4ed-8b0a-428b-b0e6-08b6446903bf" />
+
 
 ---
 
