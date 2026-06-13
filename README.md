@@ -8,7 +8,7 @@ A high-converting, fully responsive landing page for **ShareOn** — an AI-power
 
 ## 🚀 Live Demo
 
->https://6dac15cc-66d8-498d-9a56-be517fcdfd15-00-24lblljcssv2h.pike.replit.dev/__mockup/shareon.html
+https://share-on-agent-1--luckyrikhari.replit.app
 
 ---
 
